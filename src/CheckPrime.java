@@ -1,4 +1,4 @@
-    import java.util.Scanner;
+  import java.util.Scanner;
 public class CheckPrime {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -18,5 +18,6 @@ public class CheckPrime {
 
         System.out.println("Prime");
     }
+
 
 }
